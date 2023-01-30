@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    border-top: 30px solid #454545;
+    font-family: Helvetica, sans-serif;
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+    min-width: 800px;
+}
+
+h1 {
+    background-image: URL("../19350556001556279749-128.png");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: center left;
+    font-size: 3.2em;
+    padding-left: 50px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
