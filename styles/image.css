@@ -22,3 +22,8 @@ button {
     border-width: 1px;
     margin-bottom: 30px;
 }
+
+.info {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
