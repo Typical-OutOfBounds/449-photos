@@ -2,12 +2,15 @@ body {
     margin: 0;
     border-top: 30px solid #454545;
     font-family: Helvetica, sans-serif;
+
 }
 
 main {
     width: 60%;
     margin: 0 auto;
     min-width: 800px;
+    max-width: 1400px;
+
 }
 
 h1 {
